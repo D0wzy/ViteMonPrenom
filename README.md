@@ -14,7 +14,7 @@ node .
 ```
 
 ## Exemple
-<img src="iam.dowzy.fr/medias/D0wzy/QIa6U.gif">
+<img alt="Example ViteMonPrénom" src="https://iam.dowzy.fr/medias/D0wzy/QIa6U.gif" target="_blank" />
 
 ## Site internet
 [https://www.vitemonprenom.com/](https://www.vitemonprenom.com/)
